@@ -4,7 +4,7 @@ import csv
 import os
 import time
 
-fn = 'mtltf2018-coordinates_filtered.csv'
+fn = 'output-coordinates.csv'
 
 filesize = os.path.getsize(fn)
 
